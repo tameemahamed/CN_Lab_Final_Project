@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<simulation>
+    <network>
+        <client num="20" />
+        <server num="5" />
+    </network>
+</simulation>

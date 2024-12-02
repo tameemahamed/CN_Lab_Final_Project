@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<simulation>
+    <network>
+        <client num="10" />
+        <server num="2" />
+        <attack type="DDoS" target="server[0]" />
+    </network>
+</simulation>
